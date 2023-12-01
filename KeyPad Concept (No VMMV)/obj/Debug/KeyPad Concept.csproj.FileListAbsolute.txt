@@ -1,0 +1,28 @@
+D:\KeyPad Concept\bin\Debug\KeyPad Concept.exe.config
+D:\KeyPad Concept\bin\Debug\KeyPad Concept.exe
+D:\KeyPad Concept\bin\Debug\KeyPad Concept.pdb
+D:\KeyPad Concept\obj\Debug\KeyPad Concept.csproj.AssemblyReference.cache
+D:\KeyPad Concept\obj\Debug\MainWindow.baml
+D:\KeyPad Concept\obj\Debug\MainWindow.g.cs
+D:\KeyPad Concept\obj\Debug\App.g.cs
+D:\KeyPad Concept\obj\Debug\KeyPad Concept_MarkupCompile.cache
+D:\KeyPad Concept\obj\Debug\KeyPad Concept.g.resources
+D:\KeyPad Concept\obj\Debug\KeyPad_Concept.Properties.Resources.resources
+D:\KeyPad Concept\obj\Debug\KeyPad Concept.csproj.GenerateResource.cache
+D:\KeyPad Concept\obj\Debug\KeyPad Concept.csproj.CoreCompileInputs.cache
+D:\KeyPad Concept\obj\Debug\KeyPad Concept.exe
+D:\KeyPad Concept\obj\Debug\KeyPad Concept.pdb
+D:\KeyPad Concept (No VMMV)\bin\Debug\KeyPad Concept.exe.config
+D:\KeyPad Concept (No VMMV)\bin\Debug\KeyPad Concept.exe
+D:\KeyPad Concept (No VMMV)\bin\Debug\KeyPad Concept.pdb
+D:\KeyPad Concept (No VMMV)\obj\Debug\KeyPad Concept.csproj.AssemblyReference.cache
+D:\KeyPad Concept (No VMMV)\obj\Debug\MainWindow.baml
+D:\KeyPad Concept (No VMMV)\obj\Debug\MainWindow.g.cs
+D:\KeyPad Concept (No VMMV)\obj\Debug\App.g.cs
+D:\KeyPad Concept (No VMMV)\obj\Debug\KeyPad Concept_MarkupCompile.cache
+D:\KeyPad Concept (No VMMV)\obj\Debug\KeyPad Concept.g.resources
+D:\KeyPad Concept (No VMMV)\obj\Debug\KeyPad_Concept.Properties.Resources.resources
+D:\KeyPad Concept (No VMMV)\obj\Debug\KeyPad Concept.csproj.GenerateResource.cache
+D:\KeyPad Concept (No VMMV)\obj\Debug\KeyPad Concept.csproj.CoreCompileInputs.cache
+D:\KeyPad Concept (No VMMV)\obj\Debug\KeyPad Concept.exe
+D:\KeyPad Concept (No VMMV)\obj\Debug\KeyPad Concept.pdb
